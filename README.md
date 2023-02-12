@@ -32,8 +32,8 @@ This is a screenshot of my work:
 
 ### Links
 
-- Solution URL: (https://github.com/Aleqsa123/ntf)
-- Live Site URL: (https://aleqsa123.github.io/ntf/)
+- Solution URL: (https://github.com/Aleqsa123/qrcode)
+- Live Site URL: (https://aleqsa123.github.io/qrcode/)
 
 
 ## My process
